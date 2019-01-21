@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HMS</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication error, Please enter a valid email and password or sign up</string>
+    <string name="hint_roll">Roll No</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Web Mail</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Already registered.Login</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="err_msg_email">Enter a valid email.</string>
+    <string name="err_msg_rollcall">Enter a valid Roll No</string>
+    <string name="err_msg_required">Required !!</string>
+    <string name="err_msg_password">Enter a valid password with min 8 characters.</string>
+    <string name="btn_link_to_signup">Don\'t have an account,Signup !!</string>
+    <string name="title_activity_navigation_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_profile">Profile</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="supper">Supper</string>
+    <string name="update">Update</string>
+    <string name="spinner_title">Hall</string>
+    <string name="phone">Mobile Number</string>
+    <string name="room_no">Room No</string>
+    <string name="hint_scan">Scan</string>
+    <string name="btn_link_to_reset">Send Reset Link</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_link_to_forgot">Forgot Password ?</string>
+    <string name="user_list">students list</string>
+    <string name="log_out">Log Out</string>
+    <string name="refresh">Refresh</string>
+    <string name="search_by_roll_call">Search By Roll No</string>
+    <string name="change_price">Change Price</string>
+    <string name="back">Back</string>
+    <string name="total_due">Total Sum :</string>
+    <string name="choose">Choose</string>
+    <string name="upload">Upload</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
