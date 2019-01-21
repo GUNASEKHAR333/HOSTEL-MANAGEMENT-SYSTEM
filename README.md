@@ -1,0 +1,2 @@
+# HOSTEL-MANAGEMENT-SYSTEM
+This android application is designed for caterers and students of an institute.Caterer scans barcode on ID card of student with help of this app at the time of meal and deducts money from his hostel account.Money will only be deducted if he/she eats in hostel,rather than deducting money from all students without checking whether they ate in hostel or not.Caterer can check attendance of students,change prices for meals.Student can check his due and attendance.
